@@ -42,7 +42,7 @@ nav li {
     list-style: none;
     margin-right: 50px;
 }
-
+ 
 nav a {
     text-decoration: none;
     color: var(--Dark-02, #474747);
